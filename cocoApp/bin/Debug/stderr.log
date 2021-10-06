@@ -1,0 +1,12 @@
+2021-10-06 13:28:57.956 cocoApp[68829:17445596] 
+Unhandled Exception:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at cocoApp.ViewController.btnShowData_Click (Foundation.NSObject sender) [0x0000f] in /Users/joud/Projects/cocoApp/ViewController.cs:43 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,string[])
+  at AppKit.NSApplication.Main (System.String[] args) [0x00040] in /Users/builder/azdo/_work/1/s/xamarin-macios/src/AppKit/NSApplication.cs:109 
+  at cocoApp.MainClass.Main (System.String[] args) [0x00007] in /Users/joud/Projects/cocoApp/Main.cs:10 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at cocoApp.ViewController.btnShowData_Click (Foundation.NSObject sender) [0x0000f] in /Users/joud/Projects/cocoApp/ViewController.cs:43 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,string[])
+  at AppKit.NSApplication.Main (System.String[] args) [0x00040] in /Users/builder/azdo/_work/1/s/xamarin-macios/src/AppKit/NSApplication.cs:109 
+  at cocoApp.MainClass.Main (System.String[] args) [0x00007] in /Users/joud/Projects/cocoApp/Main.cs:10 

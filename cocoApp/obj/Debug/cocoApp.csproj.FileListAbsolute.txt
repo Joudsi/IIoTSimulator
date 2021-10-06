@@ -1,0 +1,14 @@
+/Users/joud/Projects/cocoApp/bin/Debug/cocoApp.exe
+/Users/joud/Projects/cocoApp/bin/Debug/cocoApp.pdb
+/Users/joud/Projects/cocoApp/obj/Debug/actool/_PartialAppManifest.items
+/Users/joud/Projects/cocoApp/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/joud/Projects/cocoApp/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/joud/Projects/cocoApp/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/joud/Projects/cocoApp/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/joud/Projects/cocoApp/obj/Debug/cocoApp.csproj.AssemblyReference.cache
+/Users/joud/Projects/cocoApp/obj/Debug/cocoApp.csproj.CoreCompileInputs.cache
+/Users/joud/Projects/cocoApp/obj/Debug/cocoApp.exe
+/Users/joud/Projects/cocoApp/obj/Debug/cocoApp.pdb
+/Users/joud/Projects/cocoApp/bin/Debug/Newtonsoft.Json.dll
+/Users/joud/Projects/cocoApp/bin/Debug/Newtonsoft.Json.xml
+/Users/joud/Projects/cocoApp/obj/Debug/cocoApp.csproj.CopyComplete
